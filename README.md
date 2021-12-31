@@ -34,7 +34,10 @@ Seção 2: Introdução ao JSX
  - Condicionais no JSX
  - Exemplos de React Layout
 
-Seção 3: Props
+Seção 3: Props (Propriedades)
+- Introdução ao React Props
+
+
 Seção 4: Introdução ao Create React App
 Seção 5: Projeto Pokedex
 
