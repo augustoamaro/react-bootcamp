@@ -33,6 +33,7 @@ Seção 2: Introdução ao JSX
  - Embutir JS no JSX
  - Condicionais no JSX
  - Exemplos de React Layout
+ - Verificar Segunda Seção
 
 Seção 3: Props (Propriedades)
 - Introdução ao React Props
