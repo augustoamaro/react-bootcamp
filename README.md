@@ -37,6 +37,8 @@ Seção 2: Introdução ao JSX
 
 Seção 3: Props (Propriedades)
 - Introdução ao React Props
+- Props are Immutable
+- Other Types of Props
 
 
 Seção 4: Introdução ao Create React App
